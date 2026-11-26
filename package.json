@@ -1,0 +1,31 @@
+{
+  "name": "hadi-portfolio",
+  "version": "1.0.0",
+  "description": "npx create-next-app@latest hadi-portfolio --ts --tailwind --eslint --app --src-dir --import-alias \"@/*\" cd hadi-portfolio npm install framer-motion lucide-react",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "framer-motion": "^14.14.0",
+    "lucide-react": "^1.81.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.11",
+    "@types/react": "^19.3.3",
+    "autoprefixer": "^10.7.0",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2"
+  }
+}
