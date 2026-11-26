@@ -2,6 +2,7 @@
 this is my (` ${Hadi Haidari} `) Portfolio made with Next.js and Tailwind.css using tens of Framer-motion animations and styles.
 
 For using it------------->
+
 1_ download all the files and put them in one folder
 2_ open the main folder with a coding environment like vscode
 3_ to run the project ---->
